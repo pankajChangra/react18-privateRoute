@@ -1,4 +1,4 @@
-# Private Route with React and redux App 18.2
+# Private Route with React 18
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
